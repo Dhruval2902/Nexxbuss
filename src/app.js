@@ -82,7 +82,7 @@ function busSchedules(stop) {
             <td>${details.stop["cross-street"].name}</td>
             <td>${details.stop.direction}</td>
             <td>${time.route.key}</td>
-            <td>${changeTime(time["scheduled-stops"][0].times.arrival.estimated)}</td>
+            <td>${changeTime(time["scheduled-stops"][1].times.arrival.estimated)}</td>
           </tr>
         `        }
       }
