@@ -1,0 +1,22 @@
+{
+  "name": "sd105-assignment-1",
+  "version": "1.0.0",
+  "description": "For this assignment, you will be building a bus schedule search by making use of the [Winnipeg Transit Data API](https://api.winnipegtransit.com/). Sign-up for free access [here](https://api.winnipegtransit.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruval2902/Nexxbuss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruval2902/Nexxbuss/issues"
+  },
+  "homepage": "https://github.com/Dhruval2902/Nexxbuss#readme",
+  "dependencies": {
+    "dayjs": "^1.9.7"
+  }
+}
